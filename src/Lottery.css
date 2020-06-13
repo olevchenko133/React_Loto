@@ -1,0 +1,23 @@
+.LotterySection{
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+flex-wrap: wrap;
+justify-content: center;
+}
+button {
+    background: #438787;
+    padding: 8px 16px;
+    border-radius: 5px;
+    color: #fff;
+    margin: 0 0 35px;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+section.Lottery {
+    background: #d0e4e4;
+    padding: 18px 0;
+    margin: 35px 2%;
+    border-radius: 6px;
+    box-shadow: 2px 2px 6px #818b8d;
+}
